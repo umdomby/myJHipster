@@ -1,6 +1,10 @@
 # myJHipster
 
+
 https://www.jhipster.tech/aws/
+
+install
+https://www.jhipster.tech/installation/
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 
