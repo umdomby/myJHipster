@@ -3,6 +3,15 @@
 
 https://www.youtube.com/watch?v=Yhc8al9SO3E
 
+./gradlew -Pprod,swagger
+./gradlew -Pprod clean bootJar
+
+java -jar build/libs/*.jar --spring.profiles=prod,swagger
+
+
+
+
+
 https://www.jhipster.tech/aws/
 
 install
