@@ -1,5 +1,5 @@
 # myJHipster
-
+sdk u java 8.0.275-amzn
 
 https://www.youtube.com/watch?v=Yhc8al9SO3E
 
