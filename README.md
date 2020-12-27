@@ -1,6 +1,8 @@
 # myJHipster
 
 
+https://www.youtube.com/watch?v=Yhc8al9SO3E
+
 https://www.jhipster.tech/aws/
 
 install
